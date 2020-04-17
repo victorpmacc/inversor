@@ -51,5 +51,8 @@ int main() {
   while (n_pilha != 0){
         pop();
   }
+
+  printf("\n");
+  
   return 0;
 }
